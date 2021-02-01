@@ -25,4 +25,4 @@ var_dump($session->all());
   
 //Destrói a sessão  
 $session->destroy();
-``
+```
